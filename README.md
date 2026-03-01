@@ -82,9 +82,7 @@ if ($conn->connect_error) {
 }
 ?>
 
-# Open the project in a browser:
 
-http://localhost/university_crud/index.php
 # Demo 
 
 https://drive.google.com/file/d/14MrpvpsPpzMS77QqwM5d3TkW6NIFGH_x/view?usp=drivesdk
