@@ -52,7 +52,7 @@ PHP 7+ and MySQL
 Clone or download the project into your XAMPP htdocs folder.
 Example:
 
-C:\xampp\htdocs\university_crud\
+C:\xampp\htdocs\system\
 
 # Create the database:
 
